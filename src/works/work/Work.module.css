@@ -1,0 +1,13 @@
+.work {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 350px;
+    background-color: #eeffee;
+}
+
+.img {
+    height: 180px;
+    width: 100%;
+    background-color: #cad5ca;
+}
